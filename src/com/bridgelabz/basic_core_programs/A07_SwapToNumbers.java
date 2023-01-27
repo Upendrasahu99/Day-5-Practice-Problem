@@ -4,7 +4,7 @@ package com.bridgelabz.basic_core_programs;
 
 import java.util.Scanner;
 
-public class A7_SwapToNumbers {
+public class A07_SwapToNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number a = ");

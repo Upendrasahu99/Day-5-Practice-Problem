@@ -4,7 +4,7 @@ package com.bridgelabz.basic_core_programs;
 
 import java.util.Scanner;
 
-public class A9_CheckAnAlphabet {
+public class A09_CheckAnAlphabet {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Alphabet : ");

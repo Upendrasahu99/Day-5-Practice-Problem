@@ -2,5 +2,5 @@
 
 package com.bridgelabz.basic_core_programs;
 
-public class A3_PowerOf2 {
+public class A03_PowerOf2 {
 }

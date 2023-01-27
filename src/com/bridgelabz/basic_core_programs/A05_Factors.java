@@ -1,6 +1,7 @@
-//LEap Year
+//Factors
 
 package com.bridgelabz.basic_core_programs;
 
-public class A2_LeapYear {
+public class A05_Factors {
+
 }

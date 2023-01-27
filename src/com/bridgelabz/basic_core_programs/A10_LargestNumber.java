@@ -17,10 +17,10 @@ public class A10_LargestNumber {
             System.out.println(n1 + " Is the largest number ");
 
         } else if (n2>n1&&n2>n3) {
-            System.out.println(n2 + "Is the largest number ");
+            System.out.println(n2 + " Is the largest number ");
 
         }else{
-            System.out.println(n3 + "Is the largest number ");
+            System.out.println(n3 + " Is the largest number ");
         }
     }
 }
